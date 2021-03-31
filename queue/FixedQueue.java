@@ -45,9 +45,3 @@ public class FixedQueue implements InterQueue{
 		return false;
 	}
 }
-
-
-
-
-
-
