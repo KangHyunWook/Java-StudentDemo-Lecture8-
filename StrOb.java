@@ -3,7 +3,7 @@ class StrOb {
 	String data;
 	
 	void insert(String data) {
-		this.data = data; //this refers to the current class
+		this.data = data; //this refers to the class it self
 	}
 	
 	String getData() {
